@@ -1,0 +1,20 @@
+{
+  "name": "s-crypt",
+  "version": "1.0.0",
+  "description": "s crypt",
+  "main": "javascript/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarkiroka/s-crypt.git"
+  },
+  "author": "sarkiroka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarkiroka/s-crypt/issues"
+  },
+  "homepage": "https://github.com/sarkiroka/s-crypt#readme",
+  "dependencies": {}
+}
