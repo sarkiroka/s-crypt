@@ -1,4 +1,4 @@
-# s-scrypt
+# s-crypt
 
 ```
 var sCrypt=require('s-crypt')('Passw0rd');
